@@ -1,0 +1,2 @@
+﻿INSERT INTO Stocklist ([series],[open],[HIGH],[low],[PREVCLOSE],[ltp],[close],[vwap],[52WH ],[52WL ],[volume],[value],noOfTrades,compId) values('EQ',1975.00,1983.80,1895.00,1973.15,1901.00,1899.50,1923.27,2369.35,875.65,26522972,51010821672.60,794436,1)
+            
